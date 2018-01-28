@@ -1,0 +1,12 @@
+# The following packages are required to run analysis_vocalink_v1.py
+sqlalchemy
+websocket
+sqlite3
+mpl_toolkits.basemap
+matplotlib
+numpy
+wordcloud (https://github.com/amueller/word_cloud)
+pandas
+
+In order to run the third visualisation mpl_toolkits.basemap is required. Installation details can
+be found: https://matplotlib.org/basemap/users/installing.html

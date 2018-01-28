@@ -1,0 +1,14 @@
+# General
+1.) Compartmentalise code into functions
+2.) Convert to Python 3
+3.) Add use options for which steps to run
+4.) Generalise directory structure
+
+# Word cloud
+1.) Improve word cloud key word identification (NLP: NLTK?)
+2.) Perform time based key word analysis: How do key words change over time
+
+# Abuse logger
+1.) Refine abuse log identification: reduce false positives
+2.) Collect additional days data: improve stats
+3.) Monitor bot edit traffic: bots may be used for malicious edits
